@@ -6,7 +6,7 @@ const prizes=[
  {label:"Água mineral",icon:"💧",weight:1},
  {label:"Café",icon:"☕",weight:1},
  {label:"Refrigerante",icon:"🥤",weight:1},
- {label:"Aditivo para radiador",icon:"🧪",weight:1},
+ {label:"Aditivo limpa para-brisa",icon:"🧪",weight:1},
  {label:"Tente mais uma vez",icon:"🔄",weight:1,retry:true}
 ];
 const segmentColors=["#073B82","#12A978","#FFC515","#0B5FB7","#20B982","#F4B400"],textColors=["#fff","#fff","#173451","#fff","#fff","#173451"];
